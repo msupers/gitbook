@@ -1,0 +1,8 @@
+version: '2'
+services:
+    hdfs:
+        image: 'hdfs'
+        restart: always 
+        ports: 
+           - "4000:4000"
+
