@@ -24,7 +24,7 @@ tar -zcvf output.tar.gz output/
 rm -rf ./output
 # step 4 
 # submit output.tar.gz  to http server 
-cp -r output.tar.gz /home/files/
+#cp -r output.tar.gz /home/files/
 
 #step 5
 # submit to docker registry
