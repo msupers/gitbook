@@ -1,9 +1,0 @@
-version: '2'
-services:
-    jenkins:
-        image: 'gitbook'
-        volumes:
-            - /var/run/docker.sock:/var/run/docker.sock
-        restart: always 
-        ports: 
-           - "4000:4000"
