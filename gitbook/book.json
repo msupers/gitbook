@@ -3,5 +3,8 @@
     "description": " some docs for bigdata！",
     "isbn": "978-3-16-148410-0",
     "language": "zh-cn",
-    "direction": "ltr"
+    "direction": "ltr",
+　　"plugins":[
+　　　　"expandable-chapters"
+　　]
 }
