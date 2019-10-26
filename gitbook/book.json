@@ -5,10 +5,11 @@
     "language": "zh-cn",
     "direction": "ltr",
     "plugins": [
-    "-search",
-    "back-to-top-button",
+        "-search",
+        "back-to-top-button",
         "expandable-chapters",
-    "expandable-chapters-small"
+        "theme-comscore",
+        "expandable-chapters-small"
     ]
 
 }
