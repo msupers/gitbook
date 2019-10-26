@@ -15,9 +15,8 @@
 
 - 反向查找 非*.groovy的文件
 
-```shell script
+```bash
 ~# find . -name *.groovy -print
-...
 ./zhcsdsj/frontend/master
 ./zhcsdsj/frontend/master/Dockerfile
 ./zhcsdsj/frontend/master/ansible-tag
