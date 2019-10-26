@@ -6,11 +6,19 @@
     "direction": "ltr",
     "plugins": [
         "-search",
+        "-lunr",
+        "search-pro",
         "back-to-top-button",
         "expandable-chapters",
         "theme-comscore",
         "expandable-chapters-small",
-        "insert-logo"
+        "insert-logo",
+        "chapter-fold",
+        "code",
+        "splitter",
+        "pageview-count",
+        "popup",
+
     ],
     "pluginsConfig": {
         "insert-logo": {
