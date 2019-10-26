@@ -8,12 +8,12 @@
     "-search",
     "back-to-top-button",
     "expandable-chapters-small",
-    "insert-logo"
+    "logo"
     ],
     "pluginsConfig": {
-        "insert-logo": {
-            "url": "logo.png",
-            "style": "background: none; max-height: 30px; min-height: 30px"
+        "logo": {
+            "logo": "logo.png",
+            "title": "我的logo"
         }
     }
 }
