@@ -12,7 +12,7 @@
     ],
     "pluginsConfig": {
         "insert-logo": {
-            "url": "log.jpg",
+            "url": "logo.png",
             "style": "background: none; max-height: 30px; min-height: 30px"
         }
     }
