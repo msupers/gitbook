@@ -9,7 +9,14 @@
         "back-to-top-button",
         "expandable-chapters",
         "theme-comscore",
-        "expandable-chapters-small"
-    ]
+        "expandable-chapters-small",
+        "insert-logo"
+    ],
+    "pluginsConfig": {
+        "insert-logo": {
+            "url": "images/logo.png",
+            "style": "background: none; max-height: 30px; min-height: 30px"
+        }
+    }
 
 }
