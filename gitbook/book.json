@@ -20,7 +20,8 @@
         "splitter",
         "pageview-count",
         "popup",
-        "tbfed-pagefooter"
+        "tbfed-pagefooter",
+        "hide-element"
 
     ],
     "pluginsConfig": {
@@ -46,6 +47,10 @@
             "copyright": "Copyright &copy moewbite 2019",
             "modify_label": "该文章修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "hide-element": {
+            "elements": [".gitbook-link"]
         }
+
     }
 }
