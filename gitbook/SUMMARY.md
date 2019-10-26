@@ -19,6 +19,7 @@
    * [golang]()
    * [python]()
    * [shell]()
+     * [文件查找](./shell/find.md)
    
 ## 知识总结
    * [tcp/ip]()
