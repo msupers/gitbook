@@ -7,13 +7,7 @@
     "plugins": [
     "-search",
     "back-to-top-button",
-    "expandable-chapters-small",
-    "logo"
-    ],
-    "pluginsConfig": {
-        "logo": {
-            "logo": "logo.png",
-            "title": "我的logo"
-        }
-    }
+    "expandable-chapters-small"
+    ]
+
 }
