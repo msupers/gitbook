@@ -9,5 +9,11 @@
     "back-to-top-button",
     "expandable-chapters-small",
     "insert-logo"
-    ]
+    ],
+    "pluginsConfig": {
+        "insert-logo": {
+            "url": "log.jpg",
+            "style": "background: none; max-height: 30px; min-height: 30px"
+        }
+    }
 }
