@@ -2,29 +2,29 @@
 * [readme](README.md)
 
 ## 工具链
-  * [gitlab]()
-     * [gitlab部署]()
   * [promethus]()
+    * [简介]()
+    * [安装文档]()
   * [jenkins]()
+    * [快速入门]()
+    * [安装文档]()
   
 ## 容器和虚拟化
-   * [docker部署](./eg/doc-2019-05.md)
-   * [k8s部署]()
-   * [kvm](./eg/doc-2019-05.md)
-     * [kvm 安装](./tech/doc-2019-05.md) 
-   * [esxi]()
-     * [esxi 安装]()
+   * [docker]()
+     * [安装]
+   * [kvm]()
+     * [安装]() 
+     * [创建虚拟机模板]
+     * [创建虚拟机]
+     * [虚拟机配置IP]
 
 ## 开发语言
    * [golang]()
-   * [python]()
+     * [text/template]
    * [shell]()
-     * [文件查找](./shell/find.md)
+     * [find](./shell/find.md)
    
 ## 知识总结
-   * [tcp/ip]()
-   * [http/https]() 
-   * [排序]()
-   * [快速排序]()
+   * [冒泡排序]()
 
 
