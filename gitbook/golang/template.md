@@ -34,3 +34,10 @@ func main() {
 }
 
 ```
+
+执行结果如下：
+
+```go
+go run main.go
+```
+my name is ZhangSan,my age is 22
