@@ -34,10 +34,36 @@ func main() {
 }
 
 ```
-
 执行结果如下：
+my name is ZhangSan,my age is 22
+
+## Actions
+
+### 注释
+
+- 说明：执行时会忽略。可以多行。注释不能嵌套，并且必须紧贴分界符始止
+
+
+- 语法：{{/*comment*/}}
+
+- 示例：
 
 ```go
-go run main.go
+package main
+
+import (
+	"fmt"
+	"os"
+	"text/template"
+)
+
+func main() {
+	Name := "Tom"
+	str := "My Name is {{.}}{{/*This is a comment*/}}"
+	tpl,err := template.New("test").Parse(str)
+	if err != nil{fmt.Println(err)}
+	tpl.Execute(os.Stdout,Name)
+}
+
 ```
-my name is ZhangSan,my age is 22
+执行结果： My Name is Tom
