@@ -4,7 +4,7 @@
 ## 工具链
   * [promethus]()
     * [简介]()
-    * [安装文档]()
+    * [安装文档](prometheus/quick-install.md)
   * [jenkins]()
     * [快速入门]()
     * [安装文档]()
