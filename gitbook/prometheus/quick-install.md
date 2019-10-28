@@ -2,7 +2,7 @@
 
 - 使用docker快速启动一个Prometheus
 
-***prom/proethues是官方镜像，建议使用的时候指定版本名称***
+***prom/proethues是官方镜像，建议使用的时候指定版本***
 
 ```bash
 docker run -p 9090:9090 -v /prometheus-data \
