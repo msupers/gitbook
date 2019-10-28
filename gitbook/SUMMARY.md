@@ -20,7 +20,7 @@
 
 ## 开发语言
    * [golang]()
-     * [text/template]
+     * [标准库template]()
    * [shell]()
      * [find](./shell/find.md)
    
