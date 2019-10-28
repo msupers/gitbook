@@ -10,13 +10,7 @@
 ## 服务启动
 
 ```bash
-
-cd /home/; git clone  https://github.com/msupers/gitbook.git
-
-docker pull registry.cn-beijing.aliyuncs.com/meowbite/gitbook:3.2.3
-
-docker run -v /home/gitbook/gitbook:/gitbook \
- -p 8000:4000 registry.cn-beijing.aliyuncs.com/meowbite/gitbook:3.2.3
+docker run -p 8000:4000 registry.cn-shanghai.aliyuncs.com/meowbite/gitbook:product
 ```
 
 ## 服务验证
