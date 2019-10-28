@@ -1,6 +1,6 @@
 ## quick start
 
-使用docker快速启动一个Prometheus
+- 使用docker快速启动一个Prometheus
 
 ***prom/proethues是官方镜像，建议使用的时候指定版本名称***
 
@@ -17,14 +17,14 @@ http://localhost:9090
 
 ##参考信息
 
--官方镜像地址
+- 官方镜像地址
 
 ```bash
 https://hub.docker.com/r/prom/prometheus/tags
 
 ```
 
--自定义镜像地址
+- 自定义镜像地址
 
 ```bash
 registry.cn-beijing.aliyuncs.com/meowbite/prometheus:v2.3.1
