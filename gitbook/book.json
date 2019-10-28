@@ -21,7 +21,9 @@
         "pageview-count",
         "popup",
         "tbfed-pagefooter",
-        "hide-element"
+        "hide-element",
+        "anchor-navigation",
+        "anchor"
 
     ],
     "pluginsConfig": {
