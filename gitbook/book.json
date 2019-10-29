@@ -8,7 +8,6 @@
         "-search",
         "-lunr",
         "-sharing",
-        "page-treeview",
         "search-pro",
         "back-to-top-button",
         "expandable-chapters",
@@ -24,7 +23,8 @@
         "hide-element",
         "anchor-navigation",
         "anchors",
-        "github"
+        "github",
+        "page-toc-button"
 
     ],
     "pluginsConfig": {
@@ -56,7 +56,10 @@
         },
         "github": {
             "url": "https://github.com/msupers/gitbook.git"
+        },
+        "page-toc-button": {
+            "maxTocDepth": 2,
+            "minTocSize": 2
         }
-
     }
 }
