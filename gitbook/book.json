@@ -8,7 +8,7 @@
         "-search",
         "-lunr",
         "-sharing",
-        "sharing-plus",
+        "page-treeview",
         "search-pro",
         "back-to-top-button",
         "expandable-chapters",
@@ -23,7 +23,8 @@
         "tbfed-pagefooter",
         "hide-element",
         "anchor-navigation",
-        "anchors"
+        "anchors",
+        "github"
 
     ],
     "pluginsConfig": {
@@ -52,6 +53,9 @@
         },
         "hide-element": {
             "elements": [".gitbook-link"]
+        },
+        "github": {
+            "url": "https://github.com/msupers/gitbook.git"
         }
 
     }
