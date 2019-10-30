@@ -1,6 +1,6 @@
 # 字符串处理
 
-- strings包常用操作实例
+## strings包常用操作实例
 
 ```go
 package main
