@@ -23,6 +23,8 @@
      * [标准库template](./golang/template.md)
      * [gobyexample学习笔记](./golang/go-by-example-zh/conent.md)
        * [1-hello-world](./golang/go-by-example-zh/1-hello-world.md)
+       * [2-values](./golang/go-by-example-zh/2-values.md)
+       * [3-var](./golang/go-by-example-zh/3-var.md)
    * [shell]()
      * [find](./shell/find.md)
    
