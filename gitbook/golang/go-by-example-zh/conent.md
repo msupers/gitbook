@@ -11,6 +11,7 @@
 - [变量](./3-var.md)
 - [常量](./4-const.md)
 - [for](./5-for.md)
+- [if and else](./6-if-else.md)
 
 ## **参考**
 - [gobyexample英文](https://gobyexample.com/)
