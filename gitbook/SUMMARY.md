@@ -26,6 +26,7 @@
        * [2-values](./golang/go-by-example-zh/2-values.md)
        * [3-var](./golang/go-by-example-zh/3-var.md)
        * [4-const](./golang/go-by-example-zh/4-const.md)
+       * [5-for](./golang/go-by-example-zh/5-for.md)
    * [shell]()
      * [find](./shell/find.md)
    

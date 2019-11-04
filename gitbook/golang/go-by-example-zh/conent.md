@@ -10,6 +10,7 @@
 - [值](./2-values.md)
 - [变量](./3-var.md)
 - [常量](./4-const.md)
+- [for](./5-for.md)
 
 ## **参考**
 - [gobyexample英文](https://gobyexample.com/)
