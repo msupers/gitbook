@@ -12,7 +12,7 @@ func main() {
 	// 1. var 声明1个或多个变量
 	// 2. go 自动判断以及初始化的变量类型
 	// 3. 声明变量没有赋值时，变量将会初始化未零值 如: int的零值时是0 bool的零值是false
-	// 4. := 语句是申明并初始化变量的简写，f := "string" 相当于 var f string = "hello"
+	// 4. := 语句是申明并初始化变量的简写，f := "hello" 相当于 var f string = "hello"
 
 	var str1 string = "i am str1"
 	str2 := "i am str2"
