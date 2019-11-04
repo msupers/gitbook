@@ -20,7 +20,7 @@
 
 ## 开发语言
    * [golang]()
-     * [标准库]
+     * [标准库]()
      * [text/template](./golang/template.md)
      * [strings](./golang/strings.md)
      * [gobyexample学习笔记](./golang/go-by-example-zh/conent.md)
