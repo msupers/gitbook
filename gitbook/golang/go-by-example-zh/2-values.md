@@ -1,3 +1,8 @@
+# Values
+
+## 代码实例
+
+```go
 package main
 
 import "fmt"
@@ -10,8 +15,11 @@ func main() {
 	fmt.Println(true || false)           //逻辑运算 或 true
 	fmt.Println(!true)                   //逻辑运算 非 false
 }
+```
 
-/*
+## 实例结果
+
+```bash
 go run 2-values.go
 hello world
 5*5= 25
@@ -19,4 +27,5 @@ hello world
 false
 true
 false
-*/
+```
+
