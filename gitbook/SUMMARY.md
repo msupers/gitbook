@@ -25,6 +25,7 @@
        * [1-hello-world](./golang/go-by-example-zh/1-hello-world.md)
        * [2-values](./golang/go-by-example-zh/2-values.md)
        * [3-var](./golang/go-by-example-zh/3-var.md)
+       * [4-const](./golang/go-by-example-zh/4-const.md)
    * [shell]()
      * [find](./shell/find.md)
    
