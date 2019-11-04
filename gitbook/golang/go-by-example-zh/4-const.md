@@ -1,3 +1,8 @@
+# 常量
+
+## 程序实例
+
+```go
 package main
 
 import (
@@ -28,3 +33,17 @@ func main() {
 	fmt.Println(math.Sin(n))   //n从常量默认int类型，变成float64类型
 
 }
+
+```
+
+## 实例结果
+
+```bash
+string
+int
+1000
+float64	
+500
+0.8268795405320026
+
+```
