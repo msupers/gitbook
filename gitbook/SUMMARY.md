@@ -21,6 +21,8 @@
 ## 开发语言
    * [golang]()
      * [标准库template](./golang/template.md)
+     * [gobyexample学习笔记](./golang/go-by-example-zh/conent.md)
+       * [1-hello-world](./golang/go-by-example-zh/1-hello-world.go)
    * [shell]()
      * [find](./shell/find.md)
    
