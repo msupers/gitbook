@@ -33,6 +33,7 @@
        * [7-switch](./golang/go-by-example-zh/7-switch.md)
        * [8-array](./golang/go-by-example-zh/8-arr.md)
        * [9-slice](./golang/go-by-example-zh/9-slice.md)
+       * [10-map](./golang/go-by-example-zh/10-map.md)
    * [shell]()
      * [find](./shell/find.md)
    
