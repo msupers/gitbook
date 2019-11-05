@@ -10,8 +10,10 @@
 - [值](./2-values.md)
 - [变量](./3-var.md)
 - [常量](./4-const.md)
-- [for](./5-for.md)
-- [if and else](./6-if-else.md)
+- [for语句](./5-for.md)
+- [if/else语句](./6-if-else.md)
+- [switch分支](./7-switch.md)
+- [数组](./8-arr.md)
 
 ## **参考**
 - [gobyexample英文](https://gobyexample.com/)

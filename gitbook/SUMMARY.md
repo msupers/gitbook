@@ -30,6 +30,8 @@
        * [4-const](./golang/go-by-example-zh/4-const.md)
        * [5-for](./golang/go-by-example-zh/5-for.md)
        * [6-if-else](./golang/go-by-example-zh/6-if-else.md)
+       * [7-switch](./golang/go-by-example-zh/7-switch.md)
+       * [8-array](./golang/go-by-example-zh/8-arr.md)
    * [shell]()
      * [find](./shell/find.md)
    
