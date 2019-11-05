@@ -14,6 +14,7 @@
 - [if/else语句](./6-if-else.md)
 - [switch分支](./7-switch.md)
 - [数组](./8-arr.md)
+- [切片](./9-slice.md)
 
 ## **参考**
 - [gobyexample英文](https://gobyexample.com/)
