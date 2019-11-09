@@ -11,12 +11,7 @@
   
 ## 容器和虚拟化
    * [docker]()
-     * [安装]
-   * [kvm]()
-     * [安装]() 
-     * [创建虚拟机模板]
-     * [创建虚拟机]
-     * [虚拟机配置IP]
+     * [安装]()
 
 ## 开发语言
    * [golang]()
@@ -34,10 +29,6 @@
        * [8-array](./golang/go-by-example-zh/8-arr.md)
        * [9-slice](./golang/go-by-example-zh/9-slice.md)
        * [10-map](./golang/go-by-example-zh/10-map.md)
-   * [shell]()
-     * [find](./shell/find.md)
-   
-## 知识总结
-   * [冒泡排序]()
+       * [11-range](./golang/go-by-example-zh/11-range.md)
 
 
