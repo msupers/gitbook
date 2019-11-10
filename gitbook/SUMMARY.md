@@ -30,5 +30,8 @@
        * [9-slice](./golang/go-by-example-zh/9-slice.md)
        * [10-map](./golang/go-by-example-zh/10-map.md)
        * [11-range](./golang/go-by-example-zh/11-range.md)
+       * [12-函数-1](./golang/go-by-example-zh/12-function-1.md)
+       * [12-函数-2](./golang/go-by-example-zh/12-function-2.md)
+       * [13-指针](./golang/go-by-example-zh/13-pointer.md)
 
 

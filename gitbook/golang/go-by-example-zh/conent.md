@@ -17,6 +17,9 @@
 - [切片](./9-slice.md)
 - [map](./10-map.md)
 - [for range](./11-range.md)
+- [函数-1](./12-function-1.md)
+- [函数-2](./12-function-2.md)
+- [指针](./13-pointer.md)
 
 ## **参考**
 - [gobyexample英文](https://gobyexample.com/)
