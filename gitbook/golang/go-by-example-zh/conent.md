@@ -20,6 +20,7 @@
 - [函数-1](./12-function-1.md)
 - [函数-2](./12-function-2.md)
 - [指针](./13-pointer.md)
+- [结构体](./14-struct.md.md)
 
 ## **参考**
 - [gobyexample英文](https://gobyexample.com/)
